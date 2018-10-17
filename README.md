@@ -4,3 +4,8 @@ This is a very simple static web template designed to host workshops information
 
 Based on [Start Bootstrap - Scrolling Nav](https://startbootstrap.com/template-overviews/scrolling-nav/)
 
+
+Compiling scss files:
+```
+scss --watch styles.scss:styles.css
+```
